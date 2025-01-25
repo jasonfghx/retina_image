@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <project>
+      <id>29</id>
+      <name>DA2249663</name>
+      <bugtracker></bugtracker>
+      <created>2024-03-04 08:46:45.643767+00:00</created>
+      <updated>2024-08-22 01:35:58.108141+00:00</updated>
+      <tasks>
+        <task>
+          <id>741</id>
+          <name>2249663_Quick ID_20231011_140226_B.mp4</name>
+          <size>150</size>
+          <mode>interpolation</mode>
+          <overlap>5</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-03-04 08:47:01.659784+00:00</created>
+          <updated>2024-08-22 01:36:00.579393+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>149</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>743</id>
+              <start>0</start>
+              <stop>149</stop>
+              <url>https://aiailab.synology.me/api/jobs/743</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>jiadali</username>
+            <email>jiadali@ntu.edu.tw</email>
+          </owner>
+          <assignee>
+            <username>AlanWu</username>
+            <email>pluswu@gmail.com</email>
+          </assignee>
+          <original_size>
+            <width>800</width>
+            <height>560</height>
+          </original_size>
+          <source>2249663_Quick ID_20231011_140226_B.mp4</source>
+        </task>
+        <task>
+          <id>742</id>
+          <name>2249663_Quick ID_20231011_140249_B.mp4</name>
+          <size>226</size>
+          <mode>interpolation</mode>
+          <overlap>5</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-03-04 08:47:07.551090+00:00</created>
+          <updated>2024-08-22 01:32:33.067506+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>225</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>744</id>
+              <start>0</start>
+              <stop>225</stop>
+              <url>https://aiailab.synology.me/api/jobs/744</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>jiadali</username>
+            <email>jiadali@ntu.edu.tw</email>
+          </owner>
+          <assignee>
+            <username>AlanWu</username>
+            <email>pluswu@gmail.com</email>
+          </assignee>
+          <original_size>
+            <width>800</width>
+            <height>560</height>
+          </original_size>
+          <source>2249663_Quick ID_20231011_140249_B.mp4</source>
+        </task>
+        <task>
+          <id>743</id>
+          <name>2249663_Quick ID_20231011_140321_B.mp4</name>
+          <size>226</size>
+          <mode>interpolation</mode>
+          <overlap>5</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-03-04 08:47:13.553496+00:00</created>
+          <updated>2024-08-22 01:34:24.894826+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>225</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>745</id>
+              <start>0</start>
+              <stop>225</stop>
+              <url>https://aiailab.synology.me/api/jobs/745</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>jiadali</username>
+            <email>jiadali@ntu.edu.tw</email>
+          </owner>
+          <assignee>
+            <username>AlanWu</username>
+            <email>pluswu@gmail.com</email>
+          </assignee>
+          <original_size>
+            <width>800</width>
+            <height>560</height>
+          </original_size>
+          <source>2249663_Quick ID_20231011_140321_B.mp4</source>
+        </task>
+        <task>
+          <id>744</id>
+          <name>2249663_Quick ID_20231011_145803_B.mp4</name>
+          <size>96</size>
+          <mode>interpolation</mode>
+          <overlap>5</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-03-04 08:47:19.541329+00:00</created>
+          <updated>2024-07-19 04:03:38.135670+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>95</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>746</id>
+              <start>0</start>
+              <stop>95</stop>
+              <url>https://aiailab.synology.me/api/jobs/746</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>jiadali</username>
+            <email>jiadali@ntu.edu.tw</email>
+          </owner>
+          <assignee>
+            <username>AlanWu</username>
+            <email>pluswu@gmail.com</email>
+          </assignee>
+          <original_size>
+            <width>800</width>
+            <height>560</height>
+          </original_size>
+          <source>2249663_Quick ID_20231011_145803_B.mp4</source>
+        </task>
+      </tasks>
+      <subsets>default</subsets>
+      <owner>
+        <username>jiadali</username>
+        <email>jiadali@ntu.edu.tw</email>
+      </owner>
+      <assignee>
+        <username>AlanWu</username>
+        <email>pluswu@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>1. Chin&amp;Hyoid (neutral)</name>
+          <color>#00ff00</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>4. Tongue_Upper</name>
+          <color>#f078f0</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>5. Tongue_Lower</name>
+          <color>#0000ff</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>6. Hyoid Bone</name>
+          <color>#7f007f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>7. Epiglottis</name>
+          <color>#996633</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>8. Epiglottis-to-Vocal Cord</name>
+          <color>#00ffff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>9. Anterior Commissure of VC</name>
+          <color>#ff00ff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>10. Thyroid Isthmus</name>
+          <color>#9437ff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>11. Suprasternal Notch</name>
+          <color>#79d6f9</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>12. CTM</name>
+          <color>#fafa37</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </project>
+    <dumped>2025-01-10 21:11:09.366730+00:00</dumped>
+  </meta>
+  <track id="0" label="12. CTM" source="manual" task_id="741" subset="default">
+    <polyline frame="78" keyframe="1" outside="0" occluded="0" points="225.43,93.59;245.41,94.54;270.14,91.69;305.34,87.88;332.93,82.18" z_order="0">
+    </polyline>
+    <polyline frame="79" keyframe="1" outside="1" occluded="0" points="225.43,93.59;245.41,94.54;270.14,91.69;305.34,87.88;332.93,82.18" z_order="0">
+    </polyline>
+  </track>
+  <track id="1" label="12. CTM" source="manual" task_id="741" subset="default">
+    <polyline frame="91" keyframe="1" outside="0" occluded="0" points="288.22,88.83;318.66,87.88;348.15,86.93;381.44,84.08" z_order="0">
+    </polyline>
+    <polyline frame="92" keyframe="1" outside="1" occluded="0" points="288.22,88.83;318.66,87.88;348.15,86.93;381.44,84.08" z_order="0">
+    </polyline>
+  </track>
+  <track id="2" label="12. CTM" source="manual" task_id="741" subset="default">
+    <polyline frame="105" keyframe="1" outside="0" occluded="0" points="273.00,91.69;313.90,88.83;363.37,85.98;382.39,77.42" z_order="0">
+    </polyline>
+    <polyline frame="106" keyframe="1" outside="1" occluded="0" points="273.00,91.69;313.90,88.83;363.37,85.98;382.39,77.42" z_order="0">
+    </polyline>
+  </track>
+  <track id="3" label="12. CTM" source="manual" task_id="741" subset="default">
+    <polyline frame="122" keyframe="1" outside="0" occluded="0" points="296.78,85.03;325.32,84.08;363.37,83.13;409.98,84.08;437.56,85.03" z_order="0">
+    </polyline>
+    <polyline frame="123" keyframe="1" outside="1" occluded="0" points="296.78,85.03;325.32,84.08;363.37,83.13;409.98,84.08;437.56,85.03" z_order="0">
+    </polyline>
+  </track>
+  <track id="4" label="12. CTM" source="manual" task_id="741" subset="default">
+    <polyline frame="141" keyframe="1" outside="0" occluded="0" points="305.34,85.03;341.49,84.08;370.02,82.18;409.03,84.08;428.05,84.08" z_order="0">
+    </polyline>
+    <polyline frame="142" keyframe="1" outside="1" occluded="0" points="305.34,85.03;341.49,84.08;370.02,82.18;409.03,84.08;428.05,84.08" z_order="0">
+    </polyline>
+  </track>
+  <track id="5" label="7. Epiglottis" source="manual" task_id="742" subset="default">
+    <box frame="159" keyframe="1" outside="0" occluded="0" xtl="336.73" ytl="274.33" xbr="417.59" ybr="301.91" z_order="0">
+    </box>
+    <box frame="160" keyframe="1" outside="1" occluded="0" xtl="336.73" ytl="274.33" xbr="417.59" ybr="301.91" z_order="0">
+    </box>
+  </track>
+  <track id="6" label="7. Epiglottis" source="manual" task_id="742" subset="default">
+    <box frame="160" keyframe="1" outside="0" occluded="0" xtl="334.83" ytl="278.13" xbr="403.32" ybr="298.11" z_order="0">
+    </box>
+    <box frame="161" keyframe="1" outside="1" occluded="0" xtl="334.83" ytl="278.13" xbr="403.32" ybr="298.11" z_order="0">
+    </box>
+  </track>
+  <track id="7" label="9. Anterior Commissure of VC" source="manual" task_id="742" subset="default">
+    <box frame="228" keyframe="1" outside="0" occluded="0" xtl="383.34" ytl="120.23" xbr="402.37" ybr="130.69" z_order="0">
+    </box>
+  </track>
+  <track id="8" label="9. Anterior Commissure of VC" source="manual" task_id="742" subset="default">
+    <box frame="229" keyframe="1" outside="0" occluded="0" xtl="386.20" ytl="121.18" xbr="403.32" ybr="129.74" z_order="0">
+    </box>
+  </track>
+  <track id="9" label="9. Anterior Commissure of VC" source="manual" task_id="742" subset="default">
+    <box frame="230" keyframe="1" outside="0" occluded="0" xtl="384.29" ytl="116.42" xbr="399.51" ybr="129.74" z_order="0">
+    </box>
+  </track>
+  <track id="10" label="9. Anterior Commissure of VC" source="manual" task_id="742" subset="default">
+    <box frame="335" keyframe="1" outside="0" occluded="0" xtl="347.19" ytl="110.71" xbr="362.41" ybr="122.13" z_order="0">
+    </box>
+  </track>
+  <track id="11" label="6. Hyoid Bone" source="manual" task_id="742" subset="default">
+    <box frame="150" keyframe="1" outside="0" occluded="0" xtl="316.75" ytl="140.20" xbr="421.39" ybr="161.13" z_order="0">
+    </box>
+    <box frame="151" keyframe="1" outside="1" occluded="0" xtl="316.75" ytl="140.20" xbr="421.39" ybr="161.13" z_order="0">
+    </box>
+  </track>
+  <track id="12" label="6. Hyoid Bone" source="manual" task_id="742" subset="default">
+    <box frame="153" keyframe="1" outside="0" occluded="0" xtl="302.49" ytl="138.30" xbr="433.76" ybr="162.08" z_order="0">
+    </box>
+    <box frame="154" keyframe="1" outside="1" occluded="0" xtl="302.49" ytl="138.30" xbr="433.76" ybr="162.08" z_order="0">
+    </box>
+  </track>
+  <track id="13" label="10. Thyroid Isthmus" source="manual" task_id="743" subset="default">
+    <box frame="502" keyframe="1" outside="0" occluded="0" xtl="343.39" ytl="80.27" xbr="481.32" ybr="118.32" z_order="0">
+    </box>
+  </track>
+  <track id="14" label="10. Thyroid Isthmus" source="manual" task_id="743" subset="default">
+    <box frame="507" keyframe="1" outside="0" occluded="0" xtl="312.95" ytl="89.79" xbr="493.69" ybr="123.08" z_order="0">
+    </box>
+  </track>
+  <track id="15" label="11. Suprasternal Notch" source="manual" task_id="743" subset="default">
+    <box frame="593" keyframe="1" outside="0" occluded="0" xtl="312.95" ytl="195.37" xbr="403.32" ybr="225.81" z_order="0">
+    </box>
+  </track>
+  <track id="16" label="1. Chin&amp;Hyoid (neutral)" source="manual" task_id="744" subset="default">
+    <box frame="630" keyframe="1" outside="0" occluded="0" xtl="490.95" ytl="171.26" xbr="527.58" ybr="199.61" z_order="0">
+    </box>
+  </track>
+  <track id="17" label="1. Chin&amp;Hyoid (neutral)" source="manual" task_id="744" subset="default">
+    <box frame="630" keyframe="1" outside="0" occluded="0" xtl="189.69" ytl="122.82" xbr="223.95" ybr="151.17" z_order="0">
+    </box>
+  </track>
+  <track id="18" label="4. Tongue_Upper" source="manual" task_id="744" subset="default">
+    <polyline frame="630" keyframe="1" outside="0" occluded="0" points="264.12,205.52;301.92,216.15;352.73,216.15;417.70,223.24;457.87,217.33;482.68,224.42" z_order="0">
+    </polyline>
+  </track>
+  <track id="19" label="5. Tongue_Lower" source="manual" task_id="744" subset="default">
+    <polyline frame="630" keyframe="1" outside="0" occluded="0" points="231.04,362.65;268.84,375.65;297.20,401.64;351.54,417.00;405.89,421.72;461.42,402.82;490.95,374.46" z_order="0">
+    </polyline>
+  </track>
+</annotations>
